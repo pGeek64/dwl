@@ -2,6 +2,7 @@ dwl
 *.o
 *-protocol.c
 *-protocol.h
+*.orig
 .ccls-cache
 config.h
 patches
